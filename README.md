@@ -1,7 +1,8 @@
 <h1 align="center">Online Code Runner</h1>
 
 <p align="center">Welcome. This is an online text editor, that runs code in <code>C++</code> and <code>Python</code>.</p>
-<img src="https://github.com/jigyansunanda/Online-Code-Runner/blob/master/media/app-screengrab.png" height="70%" width="100%" >
+<img width="1251" height="632" alt="image" src="https://github.com/user-attachments/assets/41ed129b-6426-46ba-8cdb-31ddffb23bf4" />
+
 
 <h3 align="center">How to use</h4>
 
