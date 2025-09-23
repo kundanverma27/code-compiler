@@ -26,15 +26,15 @@ Then follow the below guide to start (client) frontend and server (backend) part
 
 <h3 align="center">Change programming language</h3>
 <p align="center">
-<img src="https://github.com/jigyansunanda/Online-Code-Runner/blob/master/media/language-selection.gif" height="30%" width="60%">
+
 </p>
 
 <h3 align="center">Code exceution status</h3>
 <p align="center">
-<img src="https://github.com/jigyansunanda/Online-Code-Runner/blob/master/media/execution-status.gif" height="30%" width="60%">
+
 </p>
 
 <h3 align="center">Switch theme</h3>
 <p align="center">
-<img src="https://github.com/jigyansunanda/Online-Code-Runner/blob/master/media/theme-switch.gif" height="70%" width="100%">
+
 </p>
