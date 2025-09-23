@@ -24,17 +24,5 @@ Then follow the below guide to start (client) frontend and server (backend) part
 -   Write `npm run`. If you have the above mentioned entities installed on your machine, you should be able to see a log of `Listening on port 5000` and `Successfully connected to Mongodb database` on terminal window.
 -   Optional: If you have `nodemon` installed on your machine, then you can use `npm run dev` instead of `npm run`. This will keep the backend in check on any changes made by you, and refresh the server accordingly.
 
-<h3 align="center">Change programming language</h3>
-<p align="center">
 
-</p>
 
-<h3 align="center">Code exceution status</h3>
-<p align="center">
-
-</p>
-
-<h3 align="center">Switch theme</h3>
-<p align="center">
-
-</p>
